@@ -22,11 +22,6 @@
     "type": "git",
     "url": "https://github.com/CyberAgent/adbkit-monkey.git"
   },
-  "scripts": {
-    "postpublish": "grunt clean",
-    "prepublish": "grunt coffee",
-    "test": "grunt test"
-  },
   "dependencies": {
     "async": "~0.2.9"
   },
